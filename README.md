@@ -6,7 +6,7 @@ Each file is titled according to the corresponding galaxy from Table 2 of Mercad
 ----------------------
 [GalaxyName]_RAR.txt
 ----------------------
-Each text file contains 6 rows with baryonic and observed acceleration data in units of m s^-2
+Each text file contains 6 rows with baryonic and observed acceleration data in units of [m s^-2]
 
 The first 3 rows correspond to the RAR as presented in Lelli et al. (2017)
 [0] - g_bar_lelli;
