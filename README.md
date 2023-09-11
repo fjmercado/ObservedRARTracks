@@ -4,7 +4,7 @@ Description: All observed RAR tracks as plotted in Figure A1 in Mercado et al. (
 Each file is titled according to the corresponding galaxy from Table 2 of Mercado et al.(2023)
 
 ----------------------
-[GalaxyName]_RAR.txt
+<GalaxyName>_RAR.txt
 ----------------------
 Each text file contains 6 rows with baryonic and observed acceleration data in units of m s^-2
 
