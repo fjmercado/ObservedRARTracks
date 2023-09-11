@@ -1,6 +1,6 @@
 # Observed_RAR_tracks
 
-Description: All observed RAR tracks as plotted in Figure A1 in Mercado et al. (2023).
+Description: All 34 observed RAR tracks as plotted in Figure A1 in Mercado et al. (2023).
 Each file is titled according to the corresponding galaxy from Table 2 of Mercado et al.(2023)
 
 ----------------------
